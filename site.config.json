@@ -1,0 +1,24 @@
+{
+  "name": "North Star Technologies",
+  "shortName": "North Star",
+  "tagline": "Adding capabilities to humanity.",
+  "heroLine": "Every day our team does the plumbing, electrical and mechanical work to make spaces habitable, so we can build and test the frontier technologies that will one day be used in habitats only accessible via space.",
+  "mission": "Add capabilities to humanity.",
+  "vision": "Bring technologies from esoteric fields into mission-ready tools.",
+  "magic": "A tool built on technology you do not fully know is indistinguishable from magic.",
+  "description": "North Star Technologies adds capabilities to humanity by bringing technologies from esoteric fields into mission-ready tools. It starts with the mechanical, electrical and plumbing systems that make spaces reliably habitable. Service work is performed by Click Plumbing.",
+  "inquiryEmail": "office@clickplumbing.com",
+  "service": {
+    "name": "Click Plumbing",
+    "url": "https://clickplumbing.com",
+    "contactUrl": "https://clickplumbing.com/#contact",
+    "applyUrl": "https://clickplumbing.com/apply.html",
+    "phone": "512-360-0599",
+    "phoneHref": "+15123600599",
+    "email": "office@clickplumbing.com",
+    "address": ["5501 Balcones Dr A141", "Austin, TX 78731"],
+    "hours": "Mon to Fri, 7 AM to 6 PM",
+    "emergency": "Emergency service 24/7",
+    "area": "Austin to San Antonio, Texas"
+  }
+}

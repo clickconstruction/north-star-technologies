@@ -1,0 +1,41 @@
+{
+  "updated": "2026-11-11",
+  "metrics": [
+    {
+      "label": "Projects completed",
+      "value": "800+",
+      "detail": "Service and installation projects.",
+      "source": "As published by {{service}}"
+    },
+    {
+      "label": "Years of service",
+      "value": "18+",
+      "detail": "Field experience behind the service work.",
+      "source": "As published by {{service}}"
+    },
+    {
+      "label": "Callback rate",
+      "value": "—",
+      "unit": "%",
+      "detail": "Share of jobs that need a return visit within 30 days.",
+      "placeholder": true
+    },
+    {
+      "label": "Jobs with logged readings",
+      "value": "—",
+      "unit": "%",
+      "detail": "Jobs closed with before and after measurements on file.",
+      "placeholder": true
+    }
+  ],
+  "milestones": [
+    { "layer": "L1", "state": "done", "label": "Licensed plumbing, HVAC and electrical service in operation" },
+    { "layer": "L1", "state": "done", "label": "Carpenter and welder on staff for in-house fabrication" },
+    { "layer": "L2", "state": "planned", "label": "Standard before and after reading set defined for service calls" },
+    { "layer": "L2", "state": "planned", "label": "Callback rate published on this page" },
+    { "layer": "L2", "state": "planned", "label": "First field note published from a real job" },
+    { "layer": "L3", "state": "active", "label": "Electrocoagulation recycler in active testing" },
+    { "layer": "L3", "state": "active", "label": "Plate device being instrumented" },
+    { "layer": "L4", "state": "planned", "label": "First closed-loop water trial at a remote site" }
+  ]
+}

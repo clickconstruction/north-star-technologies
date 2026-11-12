@@ -1,0 +1,30 @@
+{
+  "version": "Draft 0.1",
+  "note": "Time ranges are typical, not guaranteed. Licensing steps follow the Texas State Board of Plumbing Examiners.",
+  "bands": [
+    {
+      "name": "Foundation",
+      "levels": [
+        { "n": 1, "title": "Helper", "time": "0 to 6 months", "focus": "Site safety, tools and materials. Learns by assisting and keeps a job moving.", "adds": [] },
+        { "n": 2, "title": "Apprentice I", "time": "About 12 months", "focus": "Registered apprentice. Basic rough-in and repair tasks under direct supervision.", "adds": [] },
+        { "n": 3, "title": "Apprentice II", "time": "12 to 18 months", "focus": "Completes common repairs and installs with checks. Reads plans. Starts recording readings.", "adds": ["Measurement"] },
+        { "n": 4, "title": "Apprentice III", "time": "12 to 18 months", "focus": "Runs routine jobs with a journeyman on call. Prepares for the journeyman exam.", "adds": ["Measurement"] }
+      ]
+    },
+    {
+      "name": "Craft",
+      "levels": [
+        { "n": 5, "title": "Journeyman", "time": "2 to 4 years", "focus": "Licensed. Works independently and owns a job from diagnosis to close, paperwork included.", "adds": ["Measurement"] },
+        { "n": 6, "title": "Senior Journeyman", "time": "2 to 3 years", "focus": "Takes the difficult diagnoses. Trains an apprentice. Logs before and after readings as routine.", "adds": ["Measurement", "Mentoring"] }
+      ]
+    },
+    {
+      "name": "Leadership and systems",
+      "levels": [
+        { "n": 7, "title": "Lead", "time": "2 to 4 years", "focus": "Runs a crew and a schedule. Answers for quality and callbacks across several jobs.", "adds": ["Measurement", "Mentoring"] },
+        { "n": 8, "title": "Systems Plumber", "time": "3 years or more", "focus": "Designs and commissions whole systems. Writes field notes. Works on water systems testing.", "adds": ["Measurement", "Mentoring", "Systems"] },
+        { "n": 9, "title": "Master / Technical Lead", "time": "Ongoing", "focus": "Master license. Sets standards, reviews designs and owns the technical direction, including this ladder.", "adds": ["Measurement", "Mentoring", "Systems"] }
+      ]
+    }
+  ]
+}

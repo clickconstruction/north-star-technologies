@@ -1,0 +1,52 @@
+[
+  {
+    "icon": "plumbing",
+    "title": "Plumbing",
+    "lead": "Supply, drain, waste and vent. The core trade and most of the work.",
+    "items": [
+      "Repairs and emergency service",
+      "Pipe installation and replacement",
+      "Water heaters",
+      "Drain cleaning",
+      "Kitchen and bath installations",
+      "Backflow prevention"
+    ]
+  },
+  {
+    "icon": "hvac",
+    "title": "HVAC and thermal",
+    "lead": "Heating, cooling and air quality, sized and checked against readings.",
+    "items": [
+      "Heating and cooling installation",
+      "Maintenance and repair",
+      "Ductwork design and installation",
+      "Indoor air quality",
+      "Efficiency upgrades",
+      "Commercial refrigeration"
+    ]
+  },
+  {
+    "icon": "electrical",
+    "title": "Electrical",
+    "lead": "Power and controls for the systems above, and for the building around them.",
+    "items": [
+      "Commercial installations",
+      "Emergency repairs",
+      "Lighting",
+      "Panel upgrades and maintenance",
+      "Generators",
+      "Code compliance and inspections"
+    ]
+  },
+  {
+    "icon": "mechanical",
+    "title": "Mechanical and fabrication",
+    "lead": "A carpenter and a welder are on staff, so supports, frames and access are built in house.",
+    "items": [
+      "Welded supports, frames and brackets",
+      "Carpentry for chases, access and equipment framing",
+      "Modifications to existing assemblies",
+      "Test rigs for our own water systems"
+    ]
+  }
+]

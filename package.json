@@ -1,0 +1,9 @@
+{
+  "name": "north-star-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node build.mjs && python3 -m http.server 4717 --bind 127.0.0.1 --directory dist"
+  }
+}

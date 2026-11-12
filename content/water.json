@@ -1,0 +1,39 @@
+{
+  "stages": ["Concept", "Prototype", "Instrumented", "Active testing", "Field pilot", "In service"],
+  "devices": [
+    {
+      "id": "WS-01",
+      "name": "Electrocoagulation wash-water recycler",
+      "status": "Active testing",
+      "state": "test",
+      "stage": 4,
+      "summary": "Treats used wash water so it can go around again instead of down the drain.",
+      "how": "A low-voltage current passes through metal plates sitting in the water. The plates release ions that bind fine solids, oils and soaps into clumps large enough to separate. The cleared water returns to the wash loop.",
+      "measuringLabel": "Planned measurements",
+      "measuring": [
+        "Turbidity in and out",
+        "Energy used per gallon treated",
+        "Electrode wear per gallon",
+        "Share of water recovered per cycle"
+      ],
+      "next": "Publish a first set of in and out readings as a field note."
+    },
+    {
+      "id": "WS-02",
+      "name": "High-speed torsion and compression plate device",
+      "status": "Experimental, being instrumented",
+      "state": "exp",
+      "stage": 3,
+      "summary": "A mechanical device that works water between plates under high-speed torsion and compression.",
+      "how": "This one is early. A prototype exists. What it does to the water has not been measured well enough to describe, so we are not describing it yet. Sensors go on first.",
+      "measuringLabel": "Planned measurements",
+      "measuring": [
+        "Inlet and outlet pressure",
+        "Temperature rise across the device",
+        "Shaft speed and input power",
+        "Water quality in and out"
+      ],
+      "next": "Finish instrumentation, then run a baseline against plain recirculation."
+    }
+  ]
+}

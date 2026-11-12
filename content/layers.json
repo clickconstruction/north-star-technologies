@@ -1,0 +1,34 @@
+[
+  {
+    "id": "L1",
+    "title": "Reliable MEP service",
+    "state": "ok",
+    "stateLabel": "Operating daily",
+    "body": "Plumbing, HVAC, electrical and mechanical work for commercial and residential buildings, performed by {{service}}. This is the foundation and nearly all of the revenue. Every other layer depends on doing it well.",
+    "evidence": "Jobs completed. Callback rate. Response time."
+  },
+  {
+    "id": "L2",
+    "title": "Measured performance",
+    "state": "build",
+    "stateLabel": "Being built into the work",
+    "body": "A repair is finished when a reading says so. We are building the habit of logging pressure, flow, temperature and humidity before and after, so that comfort and reliability can be shown and compared.",
+    "evidence": "Before and after readings on file. Published field notes."
+  },
+  {
+    "id": "L3",
+    "title": "Water systems under test",
+    "state": "test",
+    "stateLabel": "Under test",
+    "body": "Two water devices are in development: an electrocoagulation wash-water recycler and a high-speed torsion and compression plate device. Neither is for sale. Both are being measured before anything is claimed.",
+    "evidence": "Test logs. Instrumentation status. Results when they exist."
+  },
+  {
+    "id": "L4",
+    "title": "Closed-loop and extreme environments",
+    "state": "horizon",
+    "stateLabel": "Horizon",
+    "body": "The long-range target is a space that reuses its own water, holds its own climate and can be repaired by the people inside it. Remote sites come first. A Mars habitat is the hardest version of the same problem, so it is the filter we use to decide what to learn next.",
+    "evidence": "Nothing to show yet. That is stated on purpose."
+  }
+]
