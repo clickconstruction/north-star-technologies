@@ -319,6 +319,11 @@ function home({ layers, services, status, water, ladder, notes }) {
   const approach = `<section class="sec" id="approach">
   <div class="wrap">
     ${secHead('01', 'Approach', 'Capability is built in layers.', 'Each layer has to hold before the next one means anything. The service work pays for the rest, and it is where a new tool has to prove itself.')}
+    <div class="principle reveal">
+      <p class="label">Our opinion on systems</p>
+      <p class="principle-text">${esc(cfg.principle)}</p>
+      <p class="principle-sub">Every part we leave out is one that cannot fail. It is also one less to stock, inspect and repair.</p>
+    </div>
     <ol class="layers">
       ${layers
         .map(

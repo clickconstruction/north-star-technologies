@@ -7,7 +7,7 @@ GitHub Actions builds and deploys it to GitHub Pages on every push to `main`.
 
 | To change | Edit |
 | --- | --- |
-| The company name, mission, vision, phone, email, address | `site.config.json` (the only place the name is written) |
+| The company name, mission, vision, systems principle, phone, email, address | `site.config.json` (the only place the name is written) |
 | Capability layers | `content/layers.json` |
 | Services | `content/services.json` |
 | Metrics and milestones in Progress and status | `content/status.json` (set `updated` to today's date) |
